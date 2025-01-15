@@ -1,4 +1,3 @@
-```
 # Todo List App
 
 A simple and modern Todo List application built with React.js. This app allows users to manage their tasks efficiently, offering features like task completion, a progress tracker, and a sleek design.
